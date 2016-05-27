@@ -1,0 +1,18 @@
+admin url - http://www.hotel-vision.com/administrator/?23146@sdSA_o 
+protect pass: 2n}%U{yr
+username Support
+password 1c5Sup1699
+
+
+Cpanel:
+-------------------------
+http://www.hotel-vision.com:2082
+username hotelvis
+password B1gatheth$@1!mdjei9
+
+ftp
+------------------------------
+IP 185.38.45.224
+username hotelvis
+password B1gatheth$@1!mdjei9
+

@@ -1,0 +1,5 @@
+I have a joomla site which has RSdirectory and the layout of RSdirectory in the frontend has been changed.
+I need:
+1 - Upgrade the latest RSdirectory but keep the current layout
+2 - Fix the Google maps API in the RSdirectory item detail. It sometimes shows a 404 error for about an hour then the map comes back.
+	Here is a link to the site http://www.hotel-vision.com/component/rsdirectory/entry/view/235-tafelstern-passion-for-table-culture.html
